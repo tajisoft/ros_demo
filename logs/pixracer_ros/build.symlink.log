@@ -1,0 +1,3 @@
+Symlinking /home/kawamura/ros_demo/devel/share/pixracer_ros/cmake/pixracer_rosConfig.cmake
+Symlinking /home/kawamura/ros_demo/devel/share/pixracer_ros/cmake/pixracer_rosConfig-version.cmake
+Symlinking /home/kawamura/ros_demo/devel/lib/pkgconfig/pixracer_ros.pc

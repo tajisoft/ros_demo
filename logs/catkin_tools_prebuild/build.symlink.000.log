@@ -1,0 +1,8 @@
+Symlinking /home/kawamura/ros_demo/devel/./_setup_util.py
+Symlinking /home/kawamura/ros_demo/devel/./env.sh
+Symlinking /home/kawamura/ros_demo/devel/./setup.sh
+Symlinking /home/kawamura/ros_demo/devel/./setup.zsh
+Symlinking /home/kawamura/ros_demo/devel/./setup.bash
+Symlinking /home/kawamura/ros_demo/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/kawamura/ros_demo/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/kawamura/ros_demo/devel/lib/pkgconfig/catkin_tools_prebuild.pc

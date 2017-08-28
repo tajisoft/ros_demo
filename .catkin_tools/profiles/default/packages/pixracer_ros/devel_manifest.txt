@@ -1,0 +1,4 @@
+pixracer_ros
+/home/kawamura/ros_demo/devel/.private/pixracer_ros/share/pixracer_ros/cmake/pixracer_rosConfig.cmake /home/kawamura/ros_demo/devel/share/pixracer_ros/cmake/pixracer_rosConfig.cmake
+/home/kawamura/ros_demo/devel/.private/pixracer_ros/share/pixracer_ros/cmake/pixracer_rosConfig-version.cmake /home/kawamura/ros_demo/devel/share/pixracer_ros/cmake/pixracer_rosConfig-version.cmake
+/home/kawamura/ros_demo/devel/.private/pixracer_ros/lib/pkgconfig/pixracer_ros.pc /home/kawamura/ros_demo/devel/lib/pkgconfig/pixracer_ros.pc
